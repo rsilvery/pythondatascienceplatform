@@ -41,8 +41,8 @@ file.close()
 
 # Cluster Config
 MAPR_CLUSTER = "my.cluster.com" 
-MAPR_CLDB_HOSTS = "172.24.10.185 172.24.8.64 172.24.11.94"
-HOST_IP = "172.24.11.213"
+MAPR_CLDB_HOSTS = "<>"
+HOST_IP = "<>"
 MAPR_CONTAINER_USER = user
 MAPR_CONTAINER_PASSWORD = passwd
 ZEPPELIN_ARCHIVE_PYTHON = "/mapr/my.cluster.com/user/mapr/python_envs/python_3_numpy.zip"
